@@ -1,0 +1,22 @@
+ユミちゃん	由美酱	name,woman,nickname of 真由美
+リネット	蕾妮特	name
+カピバラ	卡皮瓦拉	name
+シレイ	希瑞	name
+ユイト	唯人	name,man
+ユイ	唯	first name of 片桐ユイ,man
+ヤエカ	八重香	first name of 片桐ヤエカ,woman,sister of ユイ
+片桐	片桐	lastname of 片桐ユイ(man) and 片桐ヤエカ(woman,sister of ユイ)
+アカリ	朱莉	first name of 姬乃アカリ,woman
+サキ	萨奇	first name of 姬乃サキ,woman,mother of アカリ
+姬乃	姬乃	lastname of 姬乃アカリ(woman) and 姬乃サキ(woman,mother of アカリ)
+リン	凛	first name of 藤堂リン,woman
+藤堂	藤堂	lastname of 藤堂リン(woman)
+ミク	美空	first name of 守屋ミク,woman
+守屋	守屋	lastname of 守屋ミク(woman)
+ルリコ	琉璃子	first name of 佐伯ルリコ,woman
+カナエ	加奈	first name of 佐伯カナエ,woman
+佐伯	佐伯	lastname of 佐伯ルリコ(woman) and 佐伯カナエ(woman)
+マユミ	真由美	first name of 本多マユミ,woman,teacher
+本多	本多	lastname of 本多マユミ(woman,teacher)
+ダイチ	戴奇	first name of 水野ダイチ,woman
+水野	水野	lastname of 水野ダイチ(woman)
